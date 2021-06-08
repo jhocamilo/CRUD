@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tienda-9d35f": {
+      "hosting": {
+        "tiendacrud": [
+          "tienda-9d35f"
+        ]
+      }
+    }
+  }
+}
